@@ -12,6 +12,7 @@ The lab includes:
 ## Files included
 - `Lab01_5VLANs_Trunk_DHCP.pkt` — Packet Tracer topology file
 - `Lab01_5VLANs_Trunk_DHCP_Documentation.odt` — Full project documentation (topology, configuration, tests, packet analysis, troubleshooting)
+- `Lab01_5VLANs_Trunk_DHCP_Topology.png` - Topology file.
 
 ## Key Skills Demonstrated
 - VLAN creation and management
