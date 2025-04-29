@@ -10,7 +10,7 @@ The lab includes:
 - DHCP service running on the router for dynamic IP address allocation
 
 ## Files included
-- `Lab01_Topology.pkt` — Packet Tracer topology file
+- `Lab01_5VLANs_Trunk_DHCP.pkt` — Packet Tracer topology file
 - `Lab01_Documentation.docx` — Full project documentation (topology, configuration, tests, packet analysis, troubleshooting)
 
 ## Key Skills Demonstrated
