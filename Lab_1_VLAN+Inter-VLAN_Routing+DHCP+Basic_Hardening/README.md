@@ -26,6 +26,7 @@ commonly used in real-world network environments.
 ## Files
 - Lab_1_VLAN+Inter-VLAN_Routing+DHCP.pkt – topology
 - Lab1_Documentation.pdf – full documentation
+- screenshots - directory with all screenshots
 
 ## Verification
 - Inter-VLAN connectivity verified using ICMP (ping)
